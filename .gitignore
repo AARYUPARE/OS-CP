@@ -1,0 +1,97 @@
+# =========================
+
+# Visual Studio 2022
+
+# =========================
+
+.vs/
+*.vcxproj.user
+*.suo
+*.user
+*.userosscache
+*.sln.docstates
+
+# =========================
+
+# Build Results
+
+# =========================
+
+Debug/
+Release/
+x64/
+x86/
+out/
+build/
+bin/
+obj/
+
+# CMake (if anyone uses)
+
+CMakeFiles/
+CMakeCache.txt
+
+# =========================
+
+# C/C++ Compiled Files
+
+# =========================
+
+*.exe
+*.dll
+*.obj
+*.o
+*.lib
+*.pdb
+*.idb
+*.ilk
+*.exp
+
+# =========================
+
+# Logs & Temp
+
+# =========================
+
+*.log
+*.tlog
+*.tmp
+
+# =========================
+
+# IntelliSense / Cache
+
+# =========================
+
+*.ipch
+*.aps
+*.ncb
+*.opendb
+
+# =========================
+
+# OS Junk
+
+# =========================
+
+Thumbs.db
+Desktop.ini
+.DS_Store
+
+# =========================
+
+# VS Code (optional)
+
+# =========================
+
+.vscode/
+
+# =========================
+
+# Embedded / Arduino (optional)
+
+# =========================
+
+*.hex
+*.elf
+*.bin
