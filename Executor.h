@@ -147,7 +147,7 @@ public:
 
 			cout << "IC: " << setw(2) << IC  <<" IR: " << opcode << IR[2] << IR[3] << endl;
 
-			if (TTC == TTL)
+			if (TTC > TTL)
 			{
 				rs.TI = 2;
 			}
